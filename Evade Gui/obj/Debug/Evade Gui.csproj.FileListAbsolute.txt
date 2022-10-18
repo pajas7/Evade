@@ -1,0 +1,72 @@
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe.config
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\bin\Debug\Evade Gui.pdb
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csprojAssemblyReference.cache
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Properties.Resources.resources
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.GenerateResource.cache
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.CoreCompileInputs.cache
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade Gui.exe
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade Gui.pdb
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.NastaveniHry.resources
+C:\Users\Pajas\source\repos\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.HerniOkno.resources
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csprojAssemblyReference.cache
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.HerniOkno.resources
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.NastaveniHry.resources
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Properties.Resources.resources
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.GenerateResource.cache
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.CoreCompileInputs.cache
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade Gui.exe
+C:\Users\Pajas\Evade GUI\Evade Gui\obj\Debug\Evade Gui.pdb
+C:\Users\Pajas\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe.config
+C:\Users\Pajas\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe
+C:\Users\Pajas\Evade GUI\Evade Gui\bin\Debug\Evade Gui.pdb
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe.config
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\bin\Debug\Evade Gui.pdb
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csprojAssemblyReference.cache
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.HerniOkno.resources
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.NastaveniHry.resources
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Properties.Resources.resources
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.GenerateResource.cache
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.CoreCompileInputs.cache
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade Gui.exe
+C:\Users\Pajas\Desktop\Evade GUI\Evade Gui\obj\Debug\Evade Gui.pdb
+C:\Evade GUI (3)\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe.config
+C:\Evade GUI (3)\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe
+C:\Evade GUI (3)\Evade GUI\Evade Gui\bin\Debug\Evade Gui.pdb
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csprojAssemblyReference.cache
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.HerniOkno.resources
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.NastaveniHry.resources
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Properties.Resources.resources
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.GenerateResource.cache
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.CoreCompileInputs.cache
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade Gui.exe
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade Gui.pdb
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Pravidla.resources
+C:\Evade GUI (3)\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Ovladani.resources
+C:\Evade GUI\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe.config
+C:\Evade GUI\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe
+C:\Evade GUI\Evade GUI\Evade Gui\bin\Debug\Evade Gui.pdb
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csprojAssemblyReference.cache
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.HerniOkno.resources
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.NastaveniHry.resources
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Ovladani.resources
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Pravidla.resources
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Properties.Resources.resources
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.GenerateResource.cache
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.CoreCompileInputs.cache
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.exe
+C:\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.pdb
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe.config
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\bin\Debug\Evade Gui.exe
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\bin\Debug\Evade Gui.pdb
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.AssemblyReference.cache
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.HerniOkno.resources
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.NastaveniHry.resources
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Ovladani.resources
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Pravidla.resources
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade_Gui.Properties.Resources.resources
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.GenerateResource.cache
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.csproj.CoreCompileInputs.cache
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.exe
+C:\Users\Pajas\Downloads\Evade GUI\Evade GUI\Evade Gui\obj\Debug\Evade Gui.pdb
